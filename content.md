@@ -67,6 +67,115 @@ count: false
 
 ---
 
+# Wie funktioniert's?
+
+- Ziel: Transformation von Bilddaten in maschinenlesbaren Volltext
+    + schrittweise Verarbeitung
+
+<center>
+<img src="img/nbg_region.png" width="400px" />
+</center>
+<center>
+<p>↓</p>
+</center>
+<center>
+<p style="display: inline-block; text-align: left; font-size: 16pt.; font-style: italic;">
+oberwähntem Tage mancher sorgliche Gedanke auf,<br/>
+&amp; wir seufzten öfters zum Heiland, daß Er uns<br/>
+vor allem Schaden, der uns etwa in der folgen-<br/>
+den Nacht begegnen könnte, in Gnaden bewahren
+</p>
+</center>
+
+---
+
+# Wie funktioniert's?
+
+- Schritt 1: Zeilenerkennung
+    + **regelbasierte** (Bildmorphologie) oder
+    + **datengetriebene** Verfahren (e.g. Pixelklassifikation)
+
+<center>
+<img src="img/nbg_region.png" width="400px" />
+</center>
+<center>
+<p>↓</p>
+</center>
+<center>
+<img src="img/nbg_lines.png" width="400px" />
+</center>
+
+---
+
+# Wie funktioniert's?
+
+- Schritt 2: Vektorisierung
+    + **Skalierung** auf einheitliche Höhe
+    + **Unterteilung** in 1pixel-breite Streifen
+
+<center>
+<img src="img/nbg_lines.png" width="400px" />
+</center>
+<center>
+<p>↓</p>
+</center>
+<center>
+<img src="img/nbg_grid.png" width="400px" />
+</center>
+
+---
+
+# Wie funktioniert's?
+
+- Schritt 3: Textermittlung
+    + **Übergangswahrscheinlichkeiten** zwischen Vektoren
+    + Rückgriff auf (offline) trainiertes **Modell**
+
+<center>
+<img src="img/nbg_grid.png" width="400px" />
+</center>
+<center>
+<p>↓</p>
+</center>
+<center>
+<p style="display: inline-block; text-align: left; font-size: 16pt.; font-style: italic;">
+oberwähntem Tage mancher sorgliche Gedanke auf,<br/>
+&amp; wir seufzten öfters zum Heiland, daß Er uns<br/>
+vor allem Schaden, der uns etwa in der folgen-<br/>
+den Nacht begegnen könnte, in Gnaden bewahren
+</p>
+</center>
+
+---
+
+# Datengetriebene Erkennungsmodelle
+
+<center>
+<img src="img/nbg_grid.png" width="400px" />
+</center>
+
+.cols[
+.sixty[
+- Tabelle mit fester Anzahl Zeilen und variabler Anzahl Spalten
+- schwarze (1) und weiße (0) Pixel
+    + **endliche Anzahl** mgl. Belegungen
+- charakteristische Abfolge pro Zeichen (und Wort)
+]
+.fourty[
+<center>
+<img src="img/detail_mask.png" width="190px" />
+</center>
+<center>
+<p>↓</p>
+</center>
+<center>
+<img src="img/pixel_cols.png" width="190px" />
+</center>
+]
+]
+
+---
+
 class: part-slide
 count: false
 
