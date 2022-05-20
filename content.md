@@ -47,11 +47,11 @@ count: false
 
 ---
 
-# Overview
+# Überblick
 
 - Prinzipien der Handschriftenerkennung
   + Datengetriebene Erkennungsmodelle
-  + Varianzvergleich
+  + Vergleich mit Erkennung von Drucken
   + Anforderungen an Trainingsdaten
 - Beteiligungskultur(en)
   + Motivation und Motive
