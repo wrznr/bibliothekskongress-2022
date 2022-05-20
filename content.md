@@ -42,8 +42,7 @@ layout: true
 class: title-slide
 count: false
 
-# Verbesserung von automatischer Handschriftenerkennung durch bürgerwissenschaftlich unterstützte Transkription
-## Session: Beteiligungskulturen und Daten
+# Verbesserung automatischer Handschriftenerkennung durch bürgerwissenschaftliche Transkription
 
 ---
 
@@ -51,11 +50,11 @@ count: false
 
 - Prinzipien der Handschriftenerkennung
   + Datengetriebene Erkennungsmodelle
-  + Vergleich mit Erkennung von Drucken
+  + Vergleich mit Texterkennung von Drucken
   + Anforderungen an Trainingsdaten
 - Beteiligungskultur(en)
   + Motivation und Motive
-  + Modelle der Einbindung bürgerwissenschaftlicher Kompetenzen
+  + Szenarien der Einbindung bürgerwissenschaftlicher Kompetenzen
 - **Diskussion:** wissenschaftliche Bibliotheken und bürgerwissenschaftlicher Beteiligung
 
 ---
@@ -157,9 +156,9 @@ den Nacht begegnen könnte, in Gnaden bewahren
 .cols[
 .sixty[
 - Tabelle mit fester Anzahl Zeilen und variabler Anzahl Spalten
-- schwarze (1) und weiße (0) Pixel
-    + **endliche Anzahl** mgl. Belegungen
-- charakteristische Abfolge pro Zeichen (und Wort)
+- Pixelspalten als Vektorfolge
+  + charakteristische Abfolge pro Zeichen (und Wort)
++ **Übergangswahrscheinlichkeiten** zwischen Vektoren = trainierbares Modell
 ]
 .fourty[
 <center>
@@ -176,6 +175,30 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ---
 
+# Vergleich mit Texterkennung von Drucken
+
+- gemeinsames Paradigma für Erkennung von Handschriften und Drucken (und Noten etc.)
+  + Training: auf Zeilenebene alignierte Bild- und (fehlerfreie) Textdaten
+- jedoch höhere Varianz bei Handschriften
+  + Gestalt (Hand vs. Schriftart)
+  + Materialität (Stift,Feder, Papier)
+  + Aufwand (Notiz, Brief, Zeitung, Festschrift ...)
+
+---
+
+# Anforderungen an Trainingsdaten
+
+- Quantität
+  + größere Menge an Trainingsdaten (intraindividuelle Varianz)
+  + schlechtere Übertragbarkeit trainierter Modelle (interindividuelle Varianz)
+- Qualität
+  + (teilweise) schwerer zu lesendes Ausgangsmaterial
+  + komplexere Aufbereitung für Training durch aufwändigere Segmentierung
+
+ANIMATION
+
+---
+
 class: part-slide
 count: false
 
@@ -183,10 +206,55 @@ count: false
 
 ---
 
+# Beteiligungskultur(en)
+
+- benötigte softwaretechnische Umgebung **frei verfügbar**
+- manuelle Aufwände (und Kosten) im Allgemeinen nicht abbildbar
+- Unterstützung der Trainingsmaterialerstellung durch Freiwillige
+
+VENN-DIAGRAMM
+
+---
+
 class: part-slide
 count: false
 
-# Wissenschaftliche Bibliotheken und bürgerwissenschaftlicher Beteiligung
+# Szenarien der Einbindung bürgerwissenschaftlicher Kompetenzen
+
+---
+
+# Soldatenbriefe
+
+---
+
+# Exkurs: Herrnhut Digital
+
+---
+
+# Nachrichten aus der Brüdergemeine: digitale Ed.
+
+---
+
+# Nachrichten aus der Brüdergemeine: Podcast
+
+---
+
+# Folgerung
+
+- Zielkonflikt
+  + Domänenexpertise (Kurrent) vs.
+  + informationstechnische Fertigkeiten
+- Verringerung der Distanz durch Etablierung einfacher(er) Arbeitsabläufe
+  + Überbrückung der manuellen Segmentierung via OLR durch automatisierte Alignierung von Transkription und OCR
+
+Kompromiss zwischen Aufwänden für weitestmögliche Automatisierung und Umfang der manuellen Nachbearbeitung
+
+---
+
+class: part-slide
+count: false
+
+# Wissenschaftliche Bibliotheken und bürgerwissenschaftliche Beteiligung
 
 ---
 
