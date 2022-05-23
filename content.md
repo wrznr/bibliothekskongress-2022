@@ -42,7 +42,7 @@ layout: true
 class: title-slide
 count: false
 
-# Verbesserung automatischer Handschriftenerkennung durch bürgerwissenschaftliche Transkription
+# Verbesserung automatischer Handschrifterkennung durch bürgerwissenschaftliche Transkription
 
 ---
 
@@ -52,10 +52,10 @@ count: false
   + Datengetriebene Erkennungsmodelle
   + Vergleich mit Texterkennung von Drucken
   + Anforderungen an Trainingsdaten
-- Beteiligungskultur(en)
+- Beteiligungskulturen
   + Motivation und Motive
-  + Szenarien der Einbindung bürgerwissenschaftlicher Kompetenzen
-- **Diskussion:** wissenschaftliche Bibliotheken und bürgerwissenschaftlicher Beteiligung
+  + Szenarien der Einbindung externer Kompetenzen
+- **Diskussion:** wissenschaftliche Bibliotheken und bürgerwissenschaftliche Beteiligung
 
 ---
 
@@ -110,7 +110,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 - Schritt 2: Vektorisierung
     + **Skalierung** auf einheitliche Höhe
-    + **Unterteilung** in 1pixel-breite Streifen
+    + **Unterteilung** in 1 Pixel breite Streifen
 
 <center>
 <img src="img/nbg_lines.png" width="400px" />
@@ -126,9 +126,9 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 # Wie funktioniert's?
 
-- Schritt 3: Textermittlung
+- Schritt 3: Zeichenerkennung
     + **Übergangswahrscheinlichkeiten** zwischen Vektoren
-    + Rückgriff auf (offline) trainiertes **Modell**
+    + Rückgriff auf (vorab) trainiertes **Modell**
 
 <center>
 <img src="img/nbg_grid.png" width="400px" />
@@ -155,7 +155,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 .cols[
 .sixty[
-- Tabelle mit fester Anzahl Zeilen und variabler Anzahl Spalten
+- Tabellen mit fester Anzahl Zeilen und variabler Anzahl Spalten
 - Pixelspalten als Vektorfolge
   + charakteristische Abfolge pro Zeichen (und Wort)
 + **Übergangswahrscheinlichkeiten** zwischen Vektoren = trainierbares Modell
@@ -177,11 +177,11 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 # Vergleich mit Texterkennung von Drucken
 
-- gemeinsames Paradigma für Erkennung von Handschriften und Drucken (und Noten etc.)
-  + Training: auf Zeilenebene alignierte Bild- und (fehlerfreie) Textdaten
+- einheitliches Paradigma für Erkennung von Handschrift und Druck (und Noten etc.)
+  + Training: auf Zeilenebene zugeordnete Bild-Text-Paare
 - jedoch höhere Varianz bei Handschriften
   + Gestalt (Hand vs. Schriftart)
-  + Materialität (Stift,Feder, Papier)
+  + Materialität (Stift, Feder, Papier, Presse)
   + Aufwand (Notiz, Brief, Zeitung, Festschrift ...)
 
 ---
@@ -189,11 +189,11 @@ den Nacht begegnen könnte, in Gnaden bewahren
 # Anforderungen an Trainingsdaten
 
 - Quantität
-  + größere Menge an Trainingsdaten (intraindividuelle Varianz)
-  + schlechtere Übertragbarkeit trainierter Modelle (interindividuelle Varianz)
+  + größere Menge an Trainingsdaten (intra-individuelle Varianz)
+  + schlechtere Übertragbarkeit trainierter Modelle (inter-individuelle Varianz)
 - Qualität
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
-  + komplexere Aufbereitung für Training durch aufwändigere Segmentierung
+  + komplexere Aufbereitung für Training durch aufwendigere Segmentierung
 
 ANIMATION
 
@@ -202,15 +202,15 @@ ANIMATION
 class: part-slide
 count: false
 
-# Beteiligungskultur(en)
+# Beteiligungskulturen
 
 ---
 
-# Beteiligungskultur(en)
+# Motivation
 
-- benötigte softwaretechnische Umgebung **frei verfügbar**
-- manuelle Aufwände (und Kosten) im Allgemeinen nicht abbildbar
-- Unterstützung der Trainingsmaterialerstellung durch Freiwillige
+- benötigte softwaretechnische Umgebung: **frei verfügbar**
+- manuelle Aufwände (und Kosten) i.A. nicht abbildbar
+- Unterstützung bei Erstellung von Trainingsdaten durch Freiwillige
 
 VENN-DIAGRAMM
 
@@ -219,7 +219,7 @@ VENN-DIAGRAMM
 class: part-slide
 count: false
 
-# Szenarien der Einbindung bürgerwissenschaftlicher Kompetenzen
+# Szenarien der Einbindung externer Kompetenzen
 
 ---
 
@@ -246,12 +246,12 @@ count: false
 # Folgerung
 
 - Zielkonflikt
-  + Domänenexpertise (Kurrent) vs.
+  + Domänenexpertise (Kurrent, Hintergrundwissen) vs.
   + informationstechnische Fertigkeiten
-- Verringerung der Distanz durch Etablierung einfacher(er) Arbeitsabläufe
-  + Überbrückung der manuellen Segmentierung via OLR durch automatisierte Alignierung von Transkription und OCR
+- Vermeidung durch Etablierung geteilter Arbeitsabläufe
+  + Überbrückung der manuellen Segmentierung via OLR durch automatische Alignierung von Transkription und OCR
 
-Kompromiss zwischen Aufwänden für weitestmögliche Automatisierung und Umfang der manuellen Nachbearbeitung
+Kompromiss zwischen Aufwand für weitestmögliche Automatisierung und Umfang der manuellen Nachbearbeitung
 
 ---
 
