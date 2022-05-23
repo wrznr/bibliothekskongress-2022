@@ -55,7 +55,9 @@ count: false
 - Beteiligungskulturen
   + Motivation und Motive
   + Szenarien der Einbindung externer Kompetenzen
-- **Diskussion:** wissenschaftliche Bibliotheken und bürgerwissenschaftliche Beteiligung
+- Diskussion
+  + Rolle der Bibliotheken
+  + bürgerwissenschaftliche Beteiligung
 
 ---
 
@@ -63,6 +65,10 @@ class: part-slide
 count: false
 
 # Prinzipien der Handschriftenerkennung
+
+- Wie funktioniert's?
+- Datengetriebene Erkennungsmodelle
+- Vergleich mit Texterkennung von Drucken
 
 ---
 
@@ -155,10 +161,11 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 .cols[
 .sixty[
-- Tabellen mit fester Anzahl Zeilen und variabler Anzahl Spalten
+- Tabellen mit fester Anzahl Zeilen  
+  und mit variabler Anzahl Spalten
 - Pixelspalten als Vektorfolge
-  + charakteristische Abfolge pro Zeichen (und Wort)
-+ **Übergangswahrscheinlichkeiten** zwischen Vektoren = trainierbares Modell
+  + charakteristische Abfolge pro Zeichen
++ Vektor-<strong>Übergangswahrscheinlichkeiten</strong> = trainierbares Modell
 ]
 .fourty[
 <center>
@@ -177,9 +184,9 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ## Vergleich mit Texterkennung von Drucken
 
-- einheitliches Paradigma für Erkennung von Handschrift und Druck (und Noten etc.)
+- einheitliches Paradigma für automatische Erkennung von Handschrift und Druck (und Noten etc.)
   + Training: auf Zeilenebene zugeordnete Bild-Text-Paare
-- jedoch höhere Varianz bei Handschriften
+- jedoch höhere Varianz bei Handschriften…
   + Gestalt (Hand vs. Schriftart)
   + Materialität (Stift, Feder, Papier, Presse)
   + Aufwand (Notiz, Brief, Zeitung, Festschrift ...)
@@ -193,7 +200,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
   + schlechtere Übertragbarkeit trainierter Modelle (inter-individuelle Varianz)
 - Qualität
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
-  + komplexere Aufbereitung für Training durch aufwendigere Segmentierung
+  + komplexe Aufbereitung für Training wegen aufwendiger Segmentierung
 
 ANIMATION
 
@@ -204,13 +211,17 @@ count: false
 
 # Beteiligungskulturen
 
+- Motivation
+- Szenarien der Einbindung externer Kompetenzen
+- Schlussfolgerungen
+
 ---
 
 ## Motivation
 
-- benötigte softwaretechnische Umgebung: **frei verfügbar**
-- manuelle Aufwände (und Kosten) i.A. nicht abbildbar
-- Unterstützung bei Erstellung von Trainingsdaten durch Freiwillige
+- benötigte softwaretechnische Umgebung **frei verfügbar**
+- **manuelle** Aufwände (und Kosten) i.A. nicht abbildbar
+- Freiwillige unterstützen bei Erstellung von Trainingsdaten
 
 <center>
 <img src="img/components.svg" width="350px" />
@@ -225,7 +236,7 @@ count: false
 
 <!-- Workflow-Aspekte -->
 
-- Arbeitsteilung
+- Workflow / Arbeitsteilung
 - Sichtbarkeit und Interesse
 - Beitrag durch Freiwillige
 - technische Unterstützung bei manueller Arbeit
@@ -235,7 +246,7 @@ count: false
 
 ---
 
-### Soldatenbriefe
+### Bsp. Soldatenbriefe 1871
 
 ---
 
@@ -243,11 +254,13 @@ count: false
 
 ---
 
-### Nachrichten aus der Brüdergemeine: digit. Ed.
+### Bsp. Herrnhut Digital
+#### _Nachrichten aus der Brüdergemeine_: digit. Ed.
 
 ---
 
-### Nachrichten aus der Brüdergemeine: Podcast
+### Bsp. Herrnhut Digital
+#### _Nachrichten aus der Brüdergemeine_: Podcast
 
 <center>
 <img src="img/Herrnhut-Podcasts.png" width="950px" />
@@ -259,13 +272,15 @@ count: false
 
 - Zielkonflikt:
   + Domänenexpertise (Kurrent, Hintergrundwissen) vs.
-  + informationstechnische Fertigkeiten
+  + rechentechnische Fertigkeiten
 
-  Vermeidung durch Etablierung geteilter Arbeitsabläufe
+  → Vermeidung durch Etablierung geteilter Arbeitsabläufe
+
 - Reduktion des manuellen Aufwands:
   + Transkription _ohne_ manuelle Segmentierung
-  + Überbrückung durch OLR und automatische Alignierung von OCR und Transkription
+  + dafür automatisch: OLR und Alignierung von OCR und Transkription
 
+<!-- Überbrückung der Segmentierung -->
 <!-- Kompromiss zwischen Aufwand für weitestmögliche Automatisierung und Umfang der manuellen Nachbearbeitung -->
 
 ---
@@ -273,16 +288,27 @@ count: false
 class: part-slide
 count: false
 
-# Wissenschaftliche Bibliotheken und bürgerwissenschaftliche Beteiligung
+# Diskussion
+
+- Rolle der Bibliotheken
+- Bürgerwissenschaft
+
+---
+
+## Rolle der Bibliotheken
 
 - auf allen Seiten…
   + Kompetenzen
   + Interesse
   + Wertschöpfung
-- Bibliothek als…
-  + Anbieter&Sammler von (Werk-)Daten
+- wissenschaftliche Bibliothek als…
+  + Anbieter & Sammler von (Werk-)Daten
   + Vermittler (Zugang, Organisation, Wissen, Forschung)
-  + technische Infrastruktur (Informationsdienste, Erschließung/Präsentation, Weiterentwicklung)
+  + technische Infrastruktur (Informationsdienste, Erschließung/Präsentation, Digitalisierung, Weiterentwicklung)
+
+---
+
+## Bürgerwissenschaftliche Beteiligung
 
 ---
 
