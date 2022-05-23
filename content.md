@@ -66,7 +66,7 @@ count: false
 
 ---
 
-# Wie funktioniert's?
+## Wie funktioniert's?
 
 - Ziel: Transformation von Bilddaten in maschinenlesbaren Volltext
     + schrittweise Verarbeitung
@@ -88,7 +88,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ---
 
-# Wie funktioniert's?
+## Wie funktioniert's?
 
 - Schritt 1: Zeilenerkennung
     + **regelbasierte** (Bildmorphologie) oder
@@ -106,7 +106,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ---
 
-# Wie funktioniert's?
+## Wie funktioniert's?
 
 - Schritt 2: Vektorisierung
     + **Skalierung** auf einheitliche Höhe
@@ -124,7 +124,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ---
 
-# Wie funktioniert's?
+## Wie funktioniert's?
 
 - Schritt 3: Zeichenerkennung
     + **Übergangswahrscheinlichkeiten** zwischen Vektoren
@@ -147,7 +147,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ---
 
-# Datengetriebene Erkennungsmodelle
+## Datengetriebene Erkennungsmodelle
 
 <center>
 <img src="img/nbg_grid.png" width="400px" />
@@ -175,7 +175,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ---
 
-# Vergleich mit Texterkennung von Drucken
+## Vergleich mit Texterkennung von Drucken
 
 - einheitliches Paradigma für Erkennung von Handschrift und Druck (und Noten etc.)
   + Training: auf Zeilenebene zugeordnete Bild-Text-Paare
@@ -186,7 +186,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ---
 
-# Anforderungen an Trainingsdaten
+## Anforderungen an Trainingsdaten
 
 - Quantität
   + größere Menge an Trainingsdaten (intra-individuelle Varianz)
@@ -206,36 +206,47 @@ count: false
 
 ---
 
-# Motivation
+## Motivation
 
 - benötigte softwaretechnische Umgebung: **frei verfügbar**
 - manuelle Aufwände (und Kosten) i.A. nicht abbildbar
 - Unterstützung bei Erstellung von Trainingsdaten durch Freiwillige
 
-VENN-DIAGRAMM
+<center>
+<img src="img/components.svg" width="450px" />
+</center>
 
 ---
 
 class: part-slide
 count: false
 
-# Szenarien der Einbindung externer Kompetenzen
+## Szenarien der Einbindung externer Kompetenzen
+
+<!-- Workflow-Aspekte -->
+- Arbeitsteilung
+- Sichtbarkeit und Interesse
+- Beitrag durch Freiwillige
+- technische Unterstützung bei manueller Arbeit
+- technische Unterstützung durch automatische Schritte
+
+<!-- ff. am konkreten Beispiel: -->
 
 ---
 
-# Soldatenbriefe
+### Soldatenbriefe
 
 ---
 
-# Exkurs: Herrnhut Digital
+### Exkurs: Herrnhut Digital
 
 ---
 
-# Nachrichten aus der Brüdergemeine: digit. Ed.
+### Nachrichten aus der Brüdergemeine: digit. Ed.
 
 ---
 
-# Nachrichten aus der Brüdergemeine: Podcast
+### Nachrichten aus der Brüdergemeine: Podcast
 
 <center>
 <img src="img/Herrnhut-Podcasts.png" width="950px" />
@@ -243,15 +254,17 @@ count: false
 
 ---
 
-# Folgerung
+## Schlussfolgerungen
 
-- Zielkonflikt
+- Zielkonflikt:
   + Domänenexpertise (Kurrent, Hintergrundwissen) vs.
   + informationstechnische Fertigkeiten
-- Vermeidung durch Etablierung geteilter Arbeitsabläufe
-  + Überbrückung der manuellen Segmentierung via OLR durch automatische Alignierung von Transkription und OCR
+- → Vermeidung durch Etablierung geteilter Arbeitsabläufe
+- Reduktion des manuellen Aufwands:
+  + Transkription _ohne_ manuelle Segmentierung
+  + Überbrückung durch OLR und automatische Alignierung von OCR und Transkription
 
-Kompromiss zwischen Aufwand für weitestmögliche Automatisierung und Umfang der manuellen Nachbearbeitung
+<!-- Kompromiss zwischen Aufwand für weitestmögliche Automatisierung und Umfang der manuellen Nachbearbeitung -->
 
 ---
 
@@ -260,11 +273,20 @@ count: false
 
 # Wissenschaftliche Bibliotheken und bürgerwissenschaftliche Beteiligung
 
+- auf allen Seiten…
+  + Kompetenzen
+  + Interesse
+  + Wertschöpfung
+- Bibliothek als…
+  + Anbieter&Sammler von (Werk-)Daten
+  + Vermittler (Zugang, Organisation, Wissen, Forschung)
+  + technische Infrastruktur (Informationsdienste, Erschließung/Präsentation, Weiterentwicklung)
+
 ---
 
 class: part-slide
 
-# Many thanks for your attention!
+# Danke für Ihre Aufmerksamkeit!
 
 <center>
 <a href="https://wrznr.github.io/bibliothekskongress-2022/">wrznr.github.io/bibliothekskongress-2022</a>
