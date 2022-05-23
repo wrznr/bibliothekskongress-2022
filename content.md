@@ -238,7 +238,7 @@ count: false
 # Nachrichten aus der Brüdergemeine: Podcast
 
 <center>
-<img src="img/Herrnhut-Podcasts.png" width="600px" />
+<img src="img/Herrnhut-Podcasts.png" width="800px" />
 </center>
 
 ---
