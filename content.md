@@ -213,7 +213,7 @@ count: false
 - Unterstützung bei Erstellung von Trainingsdaten durch Freiwillige
 
 <center>
-<img src="img/components.svg" width="450px" />
+<img src="img/components.svg" width="350px" />
 </center>
 
 ---
@@ -224,6 +224,7 @@ count: false
 ## Szenarien der Einbindung externer Kompetenzen
 
 <!-- Workflow-Aspekte -->
+
 - Arbeitsteilung
 - Sichtbarkeit und Interesse
 - Beitrag durch Freiwillige
@@ -259,7 +260,8 @@ count: false
 - Zielkonflikt:
   + Domänenexpertise (Kurrent, Hintergrundwissen) vs.
   + informationstechnische Fertigkeiten
-- → Vermeidung durch Etablierung geteilter Arbeitsabläufe
+
+  Vermeidung durch Etablierung geteilter Arbeitsabläufe
 - Reduktion des manuellen Aufwands:
   + Transkription _ohne_ manuelle Segmentierung
   + Überbrückung durch OLR und automatische Alignierung von OCR und Transkription
