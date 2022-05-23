@@ -49,15 +49,10 @@ count: false
 # Überblick
 
 - Prinzipien der Handschriftenerkennung
-  + Datengetriebene Erkennungsmodelle
-  + Vergleich mit Texterkennung von Drucken
-  + Anforderungen an Trainingsdaten
+
 - Beteiligungskulturen
-  + Motivation und Motive
-  + Szenarien der Einbindung externer Kompetenzen
+
 - Diskussion
-  + Rolle der Bibliotheken
-  + bürgerwissenschaftliche Beteiligung
 
 ---
 
@@ -69,6 +64,7 @@ count: false
 - Wie funktioniert's?
 - Datengetriebene Erkennungsmodelle
 - Vergleich mit Texterkennung von Drucken
+- Anforderungen an Trainingsdaten
 
 ---
 
@@ -184,7 +180,8 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 ## Vergleich mit Texterkennung von Drucken
 
-- einheitliches Paradigma für automatische Erkennung von Handschrift und Druck (und Noten etc.)
+- einheitliches Paradigma für automatische Erkennung  
+  von Handschrift und Druck (und Noten etc.)
   + Training: auf Zeilenebene zugeordnete Bild-Text-Paare
 - jedoch höhere Varianz bei Handschriften…
   + Gestalt (Hand vs. Schriftart)
@@ -196,11 +193,17 @@ den Nacht begegnen könnte, in Gnaden bewahren
 ## Anforderungen an Trainingsdaten
 
 - Quantität
-  + größere Menge an Trainingsdaten (intra-individuelle Varianz)
+  + größere Menge an Trainingsdaten
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (intra-individuelle Varianz)
   + schlechtere Übertragbarkeit trainierter Modelle (inter-individuelle Varianz)
 - Qualität
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
-  + komplexe Aufbereitung für Training wegen aufwendiger Segmentierung
+  + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
 ANIMATION
 
