@@ -231,14 +231,14 @@ count: false
 
 ---
 
-# Nachrichten aus der Brüdergemeine: digitale Ed.
+# Nachrichten aus der Brüdergemeine: digit. Ed.
 
 ---
 
 # Nachrichten aus der Brüdergemeine: Podcast
 
 <center>
-<img src="img/Herrnhut-Podcasts.png" width="800px" />
+<img src="img/Herrnhut-Podcasts.png" width="900px" />
 </center>
 
 ---
