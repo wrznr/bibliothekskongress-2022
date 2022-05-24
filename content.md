@@ -323,12 +323,16 @@ count: false
 
 - im Zuge freiwilligen Engagements
   + aus Interesse an spezifischen Inhalten
+    * z.B. Geschichtsvereine
   + aus Interesse an der Sache
+    * z.B. Ehrenamt an der SLUB
   + Einbindung spezieller Kompetenz
+    * z.B. Kurrentkundige, Genealogie
 - bisher nur in der „Forschungsvorbereitung“
   + Hilfe bei Datenerfassung und Aufbereitung
 - **nächster Schritt**: gemeinsame Beforschung entstehender Daten
   + Kompetenzvermittlung auch über unseren Nutzen hinaus
+    * z.B. Seniorenakademie
 
 ---
 
