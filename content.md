@@ -246,7 +246,7 @@ count: false
 - Zufallsfund: bürgerwissenschaftliche Edition
 
 <center>
-<img src="img/Soldatenbriefe.png" width="950px" />
+<a href="img/Soldatenbriefe.png"><img src="img/Soldatenbriefe.png" width="950px" /></a>
 </center>
 
 ---
@@ -261,7 +261,7 @@ count: false
 - Kurrent- und Editionsvermittlung
 
 <center>
-<img src="img/Herrnhut-Edition.png" width="950px" />
+<a href="img/Herrnhut-Edition.png"><img src="img/Herrnhut-Edition.png" width="950px" /></a>
 </center>
 
 ---
@@ -269,10 +269,10 @@ count: false
 ### Bsp. Herrnhut Digital: Podcast
 
 - Podcast [*Alte Schriften*](https://open.spotify.com/show/4DFXzITmsHlJiwC3OsRp5l?si=_9OJbAc_TFeceTFvxzuGSA)
-- „Retextualisierung“ mittels automatischer Spracherkennung (ASR)
+- „Retextualisierung“ mittels automatischer Spracherkennung
 
 <center>
-<img src="img/Herrnhut-Podcasts.png" width="950px" />
+<a href="img/Herrnhut-Podcasts.png"><img src="img/Herrnhut-Podcasts.png" width="950px" /></a>
 </center>
 
 ---
