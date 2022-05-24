@@ -1,2 +1,3 @@
-# slide-template
-Template for [`remarkjs`](https://remarkjs.com/)-based slides deployed via GitHub Pages
+# Bibliothekskongress 2022
+
+Slides for the talk *Verbesserung automatischer Handschrifterkennung durch bürgerwissenschaftliche Transkription* (Bibliothekskongress 2022)

@@ -161,7 +161,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
   und mit variabler Anzahl Spalten
 - Pixelspalten als Vektorfolge
   + charakteristische Abfolge pro Zeichen
-+ Vektor-<strong>Übergangswahrscheinlichkeiten</strong> = trainierbares Modell
++ Vektor-Übergangswahrscheinlichkeiten = **trainierbares Modell**
 ]
 .fourty[
 <center>
@@ -193,19 +193,13 @@ den Nacht begegnen könnte, in Gnaden bewahren
 ## Anforderungen an Trainingsdaten
 
 - Quantität
-  + größere Menge an Trainingsdaten
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    (intra-individuelle Varianz)
+  + größere Menge an Trainingsdaten (intra-individuelle Varianz)
   + schlechtere Übertragbarkeit trainierter Modelle (inter-individuelle Varianz)
 - Qualität
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
   + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
-ANIMATION
+<center>Einblick [LAREX](https://ocr.slub-dresden.de/Larex/)</center>
 
 ---
 
@@ -232,9 +226,6 @@ count: false
 
 ---
 
-class: part-slide
-count: false
-
 ## Szenarien der Einbindung externer Kompetenzen
 
 <!-- Workflow-Aspekte -->
@@ -251,22 +242,39 @@ count: false
 
 ### Bsp. Soldatenbriefe 1871
 
+- Dissertationsprojekt Soldatenbriefe Deutsch-Französischer Krieg 1870/71 (Dominik Hetjens, TU Dresden)
+- Zufallsfund: bürgerwissenschaftliche Edition
+
+<center>
+<a href="img/Soldatenbriefe.svg"><img src="img/Soldatenbriefe.svg" width="950px" /></a>
+</center>
+
 ---
 
 ### Exkurs: Herrnhut Digital
 
----
 
-### Bsp. Herrnhut Digital
-#### _Nachrichten aus der Brüdergemeine_: digit. Ed.
 
 ---
 
-### Bsp. Herrnhut Digital
-#### _Nachrichten aus der Brüdergemeine_: Podcast
+### Bsp. Herrnhut Digital: digit. Ed.
+
+- Ehrenamtsprojekt *Gemeinnachrichten* (Leitung: Juan Garcés)
+- Kurrent- und Editionsvermittlung
 
 <center>
-<img src="img/Herrnhut-Podcasts.png" width="950px" />
+<a href="img/Herrnhut-Edition.svg"><img src="img/Herrnhut-Edition.svg" width="950px" /></a>
+</center>
+
+---
+
+### Bsp. Herrnhut Digital: Podcast
+
+- Podcast [*Alte Schriften*](https://open.spotify.com/show/4DFXzITmsHlJiwC3OsRp5l?si=_9OJbAc_TFeceTFvxzuGSA)
+- „Retextualisierung“ mittels automatischer Spracherkennung
+
+<center>
+<a href="img/Herrnhut-Podcasts.svg"><img src="img/Herrnhut-Podcasts.svg" width="950px" /></a>
 </center>
 
 ---
@@ -279,7 +287,7 @@ count: false
 
   → Vermeidung durch Etablierung geteilter Arbeitsabläufe
 
-- Reduktion des manuellen Aufwands:
+- Reduktion technischer Hürden und manuellen Aufwands:
   + Transkription _ohne_ manuelle Segmentierung
   + dafür automatisch: OLR und Alignierung von OCR und Transkription
 
@@ -303,7 +311,7 @@ count: false
 - auf allen Seiten…
   + Kompetenzen
   + Interesse
-  + Wertschöpfung
+  + Wertschöpfung als gemeinsames Ziel
 - wissenschaftliche Bibliothek als…
   + Anbieter & Sammler von (Werk-)Daten
   + Vermittler (Zugang, Organisation, Wissen, Forschung)
@@ -312,6 +320,19 @@ count: false
 ---
 
 ## Bürgerwissenschaftliche Beteiligung
+
+- im Zuge freiwilligen Engagements
+    + aus Interesse an spezifischen Inhalten
+        * z.B. Geschichtsvereine
+    + aus Interesse an der Sache
+        * z.B. Ehrenamt an der SLUB
+    + Einbindung spezieller Kompetenz
+        * z.B. Kurrentkundige, Genealogie
+- bisher nur in der „Forschungsvorbereitung“
+    + Hilfe bei Datenerfassung und Aufbereitung
+- **nächster Schritt**: gemeinsame Beforschung entstehender Daten
+    + Kompetenzvermittlung auch über unseren Nutzen hinaus
+        * z.B. Seniorenakademie
 
 ---
 
