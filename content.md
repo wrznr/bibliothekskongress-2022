@@ -246,7 +246,7 @@ count: false
 - Zufallsfund: bürgerwissenschaftliche Edition
 
 <center>
-<a href="img/Soldatenbriefe.png"><img src="img/Soldatenbriefe.png" width="950px" /></a>
+<img src="img/Soldatenbriefe.svg" width="950px" />
 </center>
 
 ---
@@ -261,7 +261,7 @@ count: false
 - Kurrent- und Editionsvermittlung
 
 <center>
-<a href="img/Herrnhut-Edition.png"><img src="img/Herrnhut-Edition.png" width="950px" /></a>
+<img src="img/Herrnhut-Edition.svg" width="950px" />
 </center>
 
 ---
@@ -272,7 +272,7 @@ count: false
 - „Retextualisierung“ mittels automatischer Spracherkennung
 
 <center>
-<a href="img/Herrnhut-Podcasts.png"><img src="img/Herrnhut-Podcasts.png" width="950px" /></a>
+<img src="img/Herrnhut-Podcasts.svg" width="950px" />
 </center>
 
 ---
