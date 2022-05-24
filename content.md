@@ -189,7 +189,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
   + Aufwand (Notiz, Brief, Zeitung, Festschrift ...)
 
 .cols[
-.sixty[
+.seventy[
 <center>
 <img src="img/line_hand1.png" width="350px" />
 </center>
@@ -200,7 +200,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
 <img src="img/line_hand3.png" width="350px" />
 </center>
 ]
-.sixty[
+.seventy[
 <center>
 <img src="img/line_print1.png" width="350px" />
 </center>
@@ -224,7 +224,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
   + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
-<center>Einblick [LAREX](https://ocr.slub-dresden.de/Larex/)</center>
+<center>Einblick <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a></center>
 
 ---
 
