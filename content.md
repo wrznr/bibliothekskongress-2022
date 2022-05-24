@@ -242,7 +242,7 @@ count: false
 
 ### Bsp. Soldatenbriefe 1871
 
-- Dissertationsprojekt Soldatenbriefe Deutsch-Französischer Krieg 1870/71
+- Dissertationsprojekt Soldatenbriefe Deutsch-Französischer Krieg 1870/71 (Dominik Hetjens, TU Dresden)
 - Zufallsfund: bürgerwissenschaftliche Edition
 
 <center>
