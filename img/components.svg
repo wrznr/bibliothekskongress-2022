@@ -150,7 +150,7 @@ a { color: #007bff; }
             <xhtml:div
                style="box-sizing: border-box; font-size: 0; text-align: center; ">
               <xhtml:div
-                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #666666; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #ffffff; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
                 <xhtml:font
                    style="font-size: 18px">Daten</xhtml:font>
               </xhtml:div>
@@ -211,7 +211,7 @@ a { color: #007bff; }
             <xhtml:div
                style="box-sizing: border-box; font-size: 0; text-align: center; ">
               <xhtml:div
-                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #666666; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #ffffff; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
                 <xhtml:font
                    style="font-size: 18px">Arbeit</xhtml:font>
               </xhtml:div>
@@ -272,7 +272,7 @@ a { color: #007bff; }
             <xhtml:div
                style="box-sizing: border-box; font-size: 0; text-align: center; ">
               <xhtml:div
-                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #666666; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #ffffff; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
                 <xhtml:font
                    style="font-size: 18px">Technik</xhtml:font>
               </xhtml:div>
@@ -333,7 +333,7 @@ a { color: #007bff; }
             <xhtml:div
                style="box-sizing: border-box; font-size: 0; text-align: center; ">
               <xhtml:div
-                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #666666; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #ffffff; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
                 <xhtml:font
                    style="font-size: 18px">Organisation</xhtml:font>
               </xhtml:div>
@@ -394,7 +394,7 @@ a { color: #007bff; }
             <xhtml:div
                style="box-sizing: border-box; font-size: 0; text-align: center; ">
               <xhtml:div
-                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #666666; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #ffffff; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
                 <xhtml:font
                    style="font-size: 18px">Workflow<xhtml:br />
 </xhtml:font>
@@ -566,7 +566,7 @@ kription</xhtml:font>
             <xhtml:div
                style="box-sizing: border-box; font-size: 0; text-align: center; ">
               <xhtml:div
-                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #666666; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                 style="display: inline-block; font-size: 18px; font-family: Helvetica, &quot;VP Default&quot;; color: #ffffff; line-height: 1.2000000000000002; pointer-events: all; font-weight: bold; word-break: break-word; white-space: normal; word-wrap: normal; ">
                 <xhtml:font
                    style="font-size: 18px">OCR, OLR, ASR<xhtml:br />
 
