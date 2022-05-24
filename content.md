@@ -191,10 +191,10 @@ den Nacht begegnen könnte, in Gnaden bewahren
 .cols[
 .fifty[
 <center>
-<img src="img/kurrentbsp/GT_Brief_an_Eltern__Heinrich_Joseph_Antoine__0001_r3_l3.bin.png" width="190px" />
-<img src="img/kurrentbsp/FILE_0023_GT_region_1_region_1_line_12.bin.png" width="190px" />
-<img src="img/kurrentbsp/GT_0005_r11_l17.bin.png" width="190px" />
-<img src="img/kurrentbsp/GT_0005_r1_l1.bin.png" width="190px" />
+<img src="img/kurrentbsp/GT_Brief_an_Eltern__Heinrich_Joseph_Antoine__0001_r3_l3.bin.png" width="290px" />
+<img src="img/kurrentbsp/FILE_0023_GT_region_1_region_1_line_12.bin.png" width="290px" />
+<img src="img/kurrentbsp/GT_0005_r11_l17.bin.png" width="290px" />
+<img src="img/kurrentbsp/GT_0005_r1_l1.bin.png" width="290px" />
 </center>
 ]
 .fifty[
@@ -225,7 +225,9 @@ den Nacht begegnen könnte, in Gnaden bewahren
   + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
 <center>
+  
   Einblick [LAREX](https://ocr.slub-dresden.de/Larex/)
+
 </center>
 
 ---
