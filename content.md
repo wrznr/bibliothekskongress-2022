@@ -193,19 +193,13 @@ den Nacht begegnen könnte, in Gnaden bewahren
 ## Anforderungen an Trainingsdaten
 
 - Quantität
-  + größere Menge an Trainingsdaten
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    (intra-individuelle Varianz)
+  + größere Menge an Trainingsdaten (intra-individuelle Varianz)
   + schlechtere Übertragbarkeit trainierter Modelle (inter-individuelle Varianz)
 - Qualität
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
   + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
-ANIMATION
+<center>Einblick [LAREX](https://ocr.slub-dresden.de/Larex/)</center>
 
 ---
 
@@ -232,9 +226,6 @@ count: false
 
 ---
 
-class: part-slide
-count: false
-
 ## Szenarien der Einbindung externer Kompetenzen
 
 <!-- Workflow-Aspekte -->
@@ -251,19 +242,34 @@ count: false
 
 ### Bsp. Soldatenbriefe 1871
 
+- Dissertationsprojekt Soldatenbriefe Deutsch-Französischer Krieg 1870/71
+- Zufallsfund: bürgerwissenschaftliche Edition
+
+<center>
+<img src="img/Soldatenbriefe.png" width="950px" />
+</center>
+
 ---
 
 ### Exkurs: Herrnhut Digital
 
 ---
 
-### Bsp. Herrnhut Digital
-#### _Nachrichten aus der Brüdergemeine_: digit. Ed.
+### Bsp. Herrnhut Digital: digit. Ed.
+
+- Ehrenamtsprojekt *Gemeinnachrichten* (Leitung: Juan Garcés)
+- Kurrent- und Editionsvermittlung
+
+<center>
+<img src="img/Herrnhut-Edition.png" width="950px" />
+</center>
 
 ---
 
-### Bsp. Herrnhut Digital
-#### _Nachrichten aus der Brüdergemeine_: Podcast
+### Bsp. Herrnhut Digital: Podcast
+
+- Podcast [*Alte Schriften*](https://open.spotify.com/show/4DFXzITmsHlJiwC3OsRp5l?si=_9OJbAc_TFeceTFvxzuGSA)
+- „Retextualisierung“ mittels automatischer Spracherkennung (ASR)
 
 <center>
 <img src="img/Herrnhut-Podcasts.png" width="950px" />
