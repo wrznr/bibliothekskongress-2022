@@ -24,9 +24,9 @@ layout: true
       <td style="text-align:left"><b>Alexander Lasch</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Referat 4.3</td>
-      <td style="text-align:left">Referat 2.5</td>
-      <td style="text-align:left">TU Dresden</td>
+      <td style="text-align:left">Open Science</td>
+      <td style="text-align:left">Digitale Objekte</td>
+      <td style="text-align:left">TU Dresden – Sprachgeschichte</td>
     </tr>
     <tr>
       <td style="font-size:8pt"><b>2. Juni 2022</b></td>
