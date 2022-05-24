@@ -188,6 +188,31 @@ den Nacht begegnen könnte, in Gnaden bewahren
   + Materialität (Stift, Feder, Papier, Presse)
   + Aufwand (Notiz, Brief, Zeitung, Festschrift ...)
 
+.cols[
+.fifty[
+<center>
+<img src="img/kurrentbsp/GT_Brief_an_Eltern__Heinrich_Joseph_Antoine__0001_r3_l3.bin.png" width="290px" />
+<img src="img/kurrentbsp/FILE_0023_GT_region_1_region_1_line_12.bin.png" width="290px" />
+<img src="img/kurrentbsp/GT_0005_r11_l17.bin.png" width="290px" />
+<img src="img/kurrentbsp/GT_0005_r1_l1.bin.png" width="290px" />
+</center>
+]
+.fifty[
+<center>
+<img src="img/frakturbsp/FILE_0011_GT_FILE_0011_CROPPED_region0001_FILE_0011_CROPPED_region0001_line0018.bin.png" width="190px" />
+<img src="img/frakturbsp/FILE_0022_GT_FILE_0022_CROPPED_region0003_FILE_0022_CROPPED_region0003_line0007.bin.png" width="190px" />
+<img src="img/frakturbsp/FILE_0022_GT_FILE_0022_CROPPED_region0003_FILE_0022_CROPPED_region0003_line0009.bin.png" width="190px" />
+<!--<img src="img/frakturbsp/FILE_0033_GT_FILE_0033_CROPPED_region0002_FILE_0033_CROPPED_region0002_line0004.bin.png" width="190px" />-->
+<img src="img/frakturbsp/FILE_0033_GT_FILE_0033_CROPPED_region0002_FILE_0033_CROPPED_region0002_line0014.bin.png" width="190px" />
+<img src="img/frakturbsp/FILE_0035_GT_FILE_0035_CROPPED_region0001_FILE_0035_CROPPED_region0001_line0005.bin.png" width="190px" />
+<img src="img/frakturbsp/FILE_0022_GT_region0005_region0005_line0004.bin.png" width="190px" />
+<!--<img src="img/frakturbsp/FILE_0022_GT_region0005_region0005_line0006.bin.png" width="190px" />-->
+<img src="img/frakturbsp/FILE_0033_GT_region0000_region0000_line0003.bin.png" width="190px" />
+<img src="img/frakturbsp/FILE_0033_GT_region0001_region0001_line0016.bin.png" width="190px" />
+</center>
+]
+]
+
 ---
 
 ## Anforderungen an Trainingsdaten
@@ -199,7 +224,9 @@ den Nacht begegnen könnte, in Gnaden bewahren
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
   + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
-<center>Einblick [LAREX](https://ocr.slub-dresden.de/Larex/)</center>
+<center>
+  Einblick <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+</center>
 
 ---
 
