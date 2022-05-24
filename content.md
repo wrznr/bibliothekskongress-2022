@@ -191,24 +191,24 @@ den Nacht begegnen könnte, in Gnaden bewahren
 .cols[
 .fifty[
 <center>
-<img src="img/line_hand1.png" width="190px" />
+<img src="img/line_hand1.png" width="290px" />
 </center>
 <center>
-<img src="img/line_hand2.png" width="190px" />
+<img src="img/line_hand2.png" width="290px" />
 </center>
 <center>
-<img src="img/line_hand3.png" width="190px" />
+<img src="img/line_hand3.png" width="290px" />
 </center>
 ]
 .fifty[
 <center>
-<img src="img/line_print1.png" width="190px" />
+<img src="img/line_print1.png" width="290px" />
 </center>
 <center>
-<img src="img/line_print2.png" width="190px" />
+<img src="img/line_print2.png" width="290px" />
 </center>
 <center>
-<img src="img/line_print3.png" width="190px" />
+<img src="img/line_print3.png" width="290px" />
 </center>
 ]
 ]
