@@ -161,7 +161,7 @@ den Nacht begegnen könnte, in Gnaden bewahren
   und mit variabler Anzahl Spalten
 - Pixelspalten als Vektorfolge
   + charakteristische Abfolge pro Zeichen
-+ Vektor-<strong>Übergangswahrscheinlichkeiten</strong> = trainierbares Modell
++ Vektor-Übergangswahrscheinlichkeiten = **trainierbares Modell**
 ]
 .fourty[
 <center>
@@ -246,12 +246,14 @@ count: false
 - Zufallsfund: bürgerwissenschaftliche Edition
 
 <center>
-<img src="img/Soldatenbriefe.svg" width="950px" />
+<a href="img/Soldatenbriefe.svg"><img src="img/Soldatenbriefe.svg" width="950px" /></a>
 </center>
 
 ---
 
 ### Exkurs: Herrnhut Digital
+
+
 
 ---
 
@@ -261,7 +263,7 @@ count: false
 - Kurrent- und Editionsvermittlung
 
 <center>
-<img src="img/Herrnhut-Edition.svg" width="950px" />
+<a href="img/Herrnhut-Edition.svg"><img src="img/Herrnhut-Edition.svg" width="950px" /></a>
 </center>
 
 ---
@@ -272,7 +274,7 @@ count: false
 - „Retextualisierung“ mittels automatischer Spracherkennung
 
 <center>
-<img src="img/Herrnhut-Podcasts.svg" width="950px" />
+<a href="img/Herrnhut-Podcasts.svg"><img src="img/Herrnhut-Podcasts.svg" width="950px" /></a>
 </center>
 
 ---
@@ -285,7 +287,7 @@ count: false
 
   → Vermeidung durch Etablierung geteilter Arbeitsabläufe
 
-- Reduktion des manuellen Aufwands:
+- Reduktion technischer Hürden und manuellen Aufwands:
   + Transkription _ohne_ manuelle Segmentierung
   + dafür automatisch: OLR und Alignierung von OCR und Transkription
 
@@ -309,7 +311,7 @@ count: false
 - auf allen Seiten…
   + Kompetenzen
   + Interesse
-  + Wertschöpfung
+  + Wertschöpfung als gemeinsames Ziel
 - wissenschaftliche Bibliothek als…
   + Anbieter & Sammler von (Werk-)Daten
   + Vermittler (Zugang, Organisation, Wissen, Forschung)
@@ -318,6 +320,15 @@ count: false
 ---
 
 ## Bürgerwissenschaftliche Beteiligung
+
+- im Zuge freiwilligen Engagements
+  + aus Interesse an spezifischen Inhalten
+  + aus Interesse an der Sache
+  + Einbindung spezieller Kompetenz
+- bisher nur in der „Forschungsvorbereitung“
+  + Hilfe bei Datenerfassung und Aufbereitung
+- **nächster Schritt**: gemeinsame Beforschung entstehender Daten
+  + Kompetenzvermittlung auch über unseren Nutzen hinaus
 
 ---
 
