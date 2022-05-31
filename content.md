@@ -226,7 +226,9 @@ den Nacht begegnen könnte, in Gnaden bewahren
 
 <center>
   <img src="img/larex1.png" width="500px" alt="larex editing"/>
+  <p>
   Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+  </p>
 </center>
 
 ---
@@ -244,7 +246,9 @@ count: false
 
 <center>
   <img src="img/larex5.png" width="500px" alt="larex editing"/>
+  <p>
   Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+  </p>
 </center>
 
 ---
@@ -262,7 +266,9 @@ count: false
 
 <center>
   <img src="img/larex8.png" width="500px" alt="larex editing"/>
+  <p>
   Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+  </p>
 </center>
 
 ---
@@ -280,7 +286,9 @@ count: false
 
 <center>
   <img src="img/larex12.png" width="500px" alt="larex editing"/>
+  <p>
   Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+  </p>
 </center>
 
 ---
