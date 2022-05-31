@@ -224,9 +224,62 @@ den Nacht begegnen könnte, in Gnaden bewahren
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
   + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
-![larex-editing](img/larex1.png|width=500px)
+<center>
+  <img src="img/larex1.png" width="500px" alt="larex editing"/>
+  Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+</center>
+
+---
+
+count: false
+
+## Anforderungen an Trainingsdaten
+
+- Quantität
+  + größere Menge an Trainingsdaten (intra-individuelle Varianz)
+  + schlechtere Übertragbarkeit trainierter Modelle (inter-individuelle Varianz)
+- Qualität
+  + (teilweise) schwerer zu lesendes Ausgangsmaterial
+  + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
 <center>
+  <img src="img/larex5.png" width="500px" alt="larex editing"/>
+  Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+</center>
+
+---
+
+count: false
+
+## Anforderungen an Trainingsdaten
+
+- Quantität
+  + größere Menge an Trainingsdaten (intra-individuelle Varianz)
+  + schlechtere Übertragbarkeit trainierter Modelle (inter-individuelle Varianz)
+- Qualität
+  + (teilweise) schwerer zu lesendes Ausgangsmaterial
+  + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
+
+<center>
+  <img src="img/larex8.png" width="500px" alt="larex editing"/>
+  Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+</center>
+
+---
+
+count: false
+
+## Anforderungen an Trainingsdaten
+
+- Quantität
+  + größere Menge an Trainingsdaten (intra-individuelle Varianz)
+  + schlechtere Übertragbarkeit trainierter Modelle (inter-individuelle Varianz)
+- Qualität
+  + (teilweise) schwerer zu lesendes Ausgangsmaterial
+  + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
+
+<center>
+  <img src="img/larex12.png" width="500px" alt="larex editing"/>
   Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
 </center>
 
