@@ -224,8 +224,10 @@ den Nacht begegnen könnte, in Gnaden bewahren
   + (teilweise) schwerer zu lesendes Ausgangsmaterial
   + komplexe Aufbereitung für Training wegen aufwendigerer Segmentierung
 
+![larex-editing](img/larex1.png|width=500px)
+
 <center>
-  Einblick <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
+  Annotation mit <a href="https://ocr.slub-dresden.de/Larex/">LAREX</a>
 </center>
 
 ---
