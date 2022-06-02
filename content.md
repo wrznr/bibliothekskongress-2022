@@ -198,9 +198,9 @@ den Nacht begegnen könnte, in Gnaden bewahren
 ]
 .sixty[
 <center>
-<img src="img/line_print1.png" width="290px" />
-<img src="img/line_print2.png" width="290px" />
-<img src="img/line_print3.png" width="290px" />
+<img src="img/line_print1.png" style="width: 450px" />
+<img src="img/line_print2.png" style="width: 450px" />
+<img src="img/line_print3.png" style="width: 450px" />
 </center>
 ]
 ]
